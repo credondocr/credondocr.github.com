@@ -27,6 +27,6 @@ Soy Cesar Redondo Arrieta, me encantan los videojuegos, el desarrollo y la inves
 Actualmente estoy trabajando para la empresa Snap Technology LTDA ubicada en Alajuela, Costa Rica.
 
 #Mis redes Sociales
-[@credondocr](http://twitter.com/credondocr)
-[Github](http://github.com/credondocr)
-[Página Personal](http://www.redondocr.com)
+- [@credondocr](http://twitter.com/credondocr)
+- [Github](http://github.com/credondocr)
+- [Página Personal](http://www.redondocr.com)
