@@ -49,9 +49,11 @@ Primero vamos a instalar el generador para angular-fullstack
 	$ npm install -g generator-angular-
 
 Luego crearemos la carpeta donde estará nuestro proyecto
+
 	$ mkdir angular-fullstack-tutorial && cd $_
 
 Ya en esa carpeta ejecutaremos el Wizard para generar el proyecto
+
 	$ yo angular-fullstack
 
 Con este comando Yeoman te va a preguntar que deseas y que no deseas en tu proyecto, en mi caso seleccione:
