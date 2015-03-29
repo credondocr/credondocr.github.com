@@ -3,7 +3,6 @@ layout: post
 title: "Angular Fullstack Tutorial"
 description: "Tutorial completo desde 0 de como usar Angular-fullstack"
 category: angular-fullstack 
-resumen: Luego de investigar un poco de diferentes tecnologías Angularjs encontré una solución muy interesada y poderosa llamada Angular-Fullstack
 tags: [angular, yeoman, nodejs, expressjs, mongoose, mongo, angular-fullstack, tutorial]
 ---
 {% include JB/setup %}

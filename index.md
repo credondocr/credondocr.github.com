@@ -19,7 +19,7 @@ tagline:
             <div class="bd">
                 <div class="entry-content">
                     <h2>{{post.title}}</h2>>
-                    {{ post.content }}
+                    {{ post.content | split:"<!-- more -->" | first }}
                 </div><!-- entry-content -->
             </div><!-- bd -->
         </div><!-- content -->
@@ -27,7 +27,7 @@ tagline:
 </article>
   {% endfor %}
 
-  ds
+
 
 
 
