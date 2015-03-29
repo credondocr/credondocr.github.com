@@ -8,11 +8,8 @@ header: Hey, im Cesar
 {% include JB/setup %}
 
 
-<span>
-    <!-- Mugshot. -->
 <img src="http://www.gravatar.com/avatar/3139c6b1db19ee242ac9f3e09d859a3c.png" alt="Cesar Redondo Arrieta" />
 
-</span>
 
 
 Soy Cesar Redondo Arrieta, me encantan los videojuegos, el desarrollo y la investigación de nuevas tecnologías.
