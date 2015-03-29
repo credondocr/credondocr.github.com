@@ -14,23 +14,21 @@ Luego de investigar un poco de diferentes tecnologías Angularjs encontré una s
 Entre los features interesantes de Angular-Fullstack puedo destacar:
 
 ##Client Side
-<ul class="posts">
-    <li>Yeoman CLI.</li>
-    <li>Grunt.</li>
-    <li>Templates en html o Jade.</li>
-    <li>Scripts en Javascript o CoffeeScript.</li>
-    <li>Stylesheets en CSS, Less, Sass, Stylus.</li>
-    <li>Angular Routers en ngRoute, ui-router. </li>
-</ul>
+- Yeoman CLI.
+- Grunt.
+- Templates en html o Jade.
+- Scripts en Javascript o CoffeeScript.
+- Stylesheets en CSS, Less, Sass, Stylus.
+- Angular Routers en ngRoute, ui-router.
+
 
 
 ##Server Side
-<ul class="posts">
-    <li>Integración con mongodb si lo deseas.</li>
-    <li>Integracion con autentificación Boilerplate.</li>
-    <li>Integración con oAuth: Facebook, Twitter y Google. </li>
-    <li>Integración con Socket.io</li>
-</ul>
+- Integración con mongodb si lo deseas.
+- Integracion con autentificación Boilerplate.
+- Integración con oAuth: Facebook, Twitter y Google. 
+- Integración con Socket.io
+
 
 Nota: Todos estos Features son configurables desde el Yeoman.
 
@@ -38,12 +36,11 @@ Bueno demos inicio al tutorial (Este tutorial esta enfocado en usuarios Linux ya
 
 ##Pre Requisitos:
 
-<ul class="posts">
-    <li>Node instalado [Tutorial](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)</li>
-    <li>Grunt.</li>
-    <li>[Yeoman](http://yeoman.io/) </li>
-    <li>Mongo si al generar el proyecto seleccionamos que utilizaremos DB</li>
-</ul>
+- Node instalado [Tutorial](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
+- Grunt.
+-[Yeoman](http://yeoman.io)
+- Mongo si al generar el proyecto seleccionamos que utilizaremos DB
+
 
 ##¿Como generar un proyecto desde 0?
 
