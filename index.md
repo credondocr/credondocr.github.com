@@ -18,7 +18,7 @@ tagline:
         <div class="content">
             <div class="bd">
                 <div class="entry-content">
-                    {{ post.content | split:"<!-- more -->" | first }}
+                    {{ post.resumen }}
                 </div><!-- entry-content -->
             </div><!-- bd -->
         </div><!-- content -->
