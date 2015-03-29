@@ -62,15 +62,15 @@ Con este comando Yeoman te va a preguntar que deseas y que no deseas en tu proye
 - javaScript
 - HTML
 - Less
--UIRouter
--Inclui Bootstrap
--Inclui UI Bootstrap
+- UIRouter
+- Inclui Bootstrap
+- Inclui UI Bootstrap
 
 ##Server
 - Mongo with Mongoose
 - Boilerplate Authentication
 - OAuth Strategies: Facebook
--Inclui Socket.io
+- Inclui Socket.io
 
 <p>Luego de seleccionar tu proyecto durará unos cuantos minutos configurando y descargando las dependencias del proyecto.</p>
 
