@@ -100,4 +100,48 @@ Nota: Si ejecutamos este comando sin permiso de administrador va a dar un loop e
 
 Tomado de la página del desarrollador.
 
+##Estructura de la carpeta client->app
+
+	main
+	├── main.js                 - Routes
+	├── main.controller.js      - Controller for our main route
+	├── main.controller.spec.js - Test
+	├── main.html               - View
+	└── main.less               - Styles
+
+##Estructura de la carpeta server->api
+
+	thing
+	├── index.js                - Routes
+	├── thing.controller.js     - Controller for our `thing` endpoint
+	├── thing.model.js          - Database model
+	├── thing.socket.js         - Register socket events
+	└── thing.spec.js           - Test
+
+#Algunos comandos importantes
+
+App
+
+- angular-fullstack (aka angular-fullstack:app)
+
+Server Side
+
+- angular-fullstack:endpoint
+
+Client Side
+
+- angular-fullstack:route
+- angular-fullstack:controller
+- angular-fullstack:filter
+- angular-fullstack:directive
+- angular-fullstack:service
+- angular-fullstack:provider
+- angular-fullstack:factory
+- angular-fullstack:decorator
+
+Por si tiene alguna pregunta duda o sugerencia o comentarios pueden escribirme al correo o utilizar la caja de comentarios:
+
+	credondocr@gmail.com
+
+Espero que les ayude en algo este tutorial a como me ayudo a mi encontrar esta solución.
 
