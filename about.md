@@ -7,6 +7,17 @@ header: Hey, im Cesar
 ---
 {% include JB/setup %}
 
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Mugshot. -->
+        <img src="{{ author.email | to_gravatar }}" alt="A photo of {{ author.name }}" />
+
+        <!-- Personal Info. -->
+        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+    </span>
+{% endif %}
+
 
 Soy Cesar Redondo Arrieta, me encantan los videojuegos, el desarrollo y la investigación de nuevas tecnologías.
 
