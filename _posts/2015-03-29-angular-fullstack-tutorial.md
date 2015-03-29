@@ -98,7 +98,7 @@ Nota: Si ejecutamos este comando sin permiso de administrador va a dar un loop e
 	    │   └── environment     - Configuration specific to the node environment
 	    └── views               - Server rendered views
 
-	 .
+	.
     |-- _client
     |   |-- app
     	|-- assets
