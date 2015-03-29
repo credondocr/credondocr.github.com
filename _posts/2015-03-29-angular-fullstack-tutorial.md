@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Angular Fullstack Tutorial"
-description: ""
-category: 
-tags: []
+description: "Tutorial completo desde 0 de como usar Angular-fullstack"
+category: angular-fullstack 
+tags: [angular, yeoman, nodejs, expressjs, mongoose, mongo, angular-fullstack, tutorial]
 ---
 {% include JB/setup %}
 
