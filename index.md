@@ -11,7 +11,7 @@ tagline: Sandbox de cosas random que hago :P
         <div class="content">
             <div class="bd">
                 <div class="entry-content">
-                    <a href="{{post.url}}"><h1>{{post.title}}</h1></a>
+                     <h1>[{{post.title}}]({{post.url}})</h1>
                     {{ post.content | split:"<!-- more -->" | first }}
                 </div><!-- entry-content -->
             </div><!-- bd -->
