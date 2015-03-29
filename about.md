@@ -10,7 +10,7 @@ header: Hey, im Cesar
 
 <span>
     <!-- Mugshot. -->
-<img src="{{ credondocr@gmail.com | to_gravatar }}" alt="A photo of {{ author.name }}" />
+<img src="{{ 'credondocr@gmail.com' | to_gravatar }}" alt="A photo of {{ author.name }}" />
 
 <!-- Personal Info. -->
 Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
