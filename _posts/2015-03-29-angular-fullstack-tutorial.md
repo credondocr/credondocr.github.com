@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Luego de investigar un poco de diferentes tecnologías Angularjs encontré una solución muy interesada llamada [Angular-Fullstack](https://github.com/DaftMonk/generator-angular-fullstack).
+Luego de investigar un poco de diferentes tecnologías Angularjs encontré una solución muy interesada y poderosa llamada [Angular-Fullstack](https://github.com/DaftMonk/generator-angular-fullstack).
 
 ##Features interesantes de Angular-Fullstack
 
