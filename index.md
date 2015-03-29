@@ -12,19 +12,13 @@ tagline:
   {% endfor %}
 </ul>
 
- {% for post in site.posts %}
-<article class="unit-article layout-post">
-    <div class="unit-inner unit-article-inner">
-        <div class="content">
-            <div class="bd">
-                <div class="entry-content">
-                    {{ post.content }}
-                </div><!-- entry-content -->
-            </div><!-- bd -->
-        </div><!-- content -->
-    </div><!-- unit-inner -->
-</article>
-  {% endfor %}
+<div class="post-content-truncate">
+  {% if post.content contains "<!-- more -->" %}
+    {{ post.content | split:"<!-- more -->" | first % }}
+  {% else %}
+    {{ post.content | strip_html | truncatewords:100 }}
+  {% endif %}
+</div>
 
 
 

@@ -28,7 +28,7 @@ Entre los features interesantes de Angular-Fullstack puedo destacar:
 - Integracion con autentificación Boilerplate.
 - Integración con oAuth: Facebook, Twitter y Google. 
 - Integración con Socket.io
-
+<!-- more -->
 
 Nota: Todos estos Features son configurables desde el Yeoman.
 
