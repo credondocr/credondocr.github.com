@@ -2,6 +2,8 @@
 layout: page
 title: "About"
 description: ""
+group: navigation
+header: Hey, im Cesar
 ---
 {% include JB/setup %}
 
