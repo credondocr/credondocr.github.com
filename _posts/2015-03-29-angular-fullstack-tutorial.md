@@ -98,25 +98,6 @@ Nota: Si ejecutamos este comando sin permiso de administrador va a dar un loop e
 	    │   └── environment     - Configuration specific to the node environment
 	    └── views               - Server rendered views
 
-	.
-    |-- _client
-    |   |-- app
-    	|-- assets
-    	|--components 
-    |-- _includes
-    |-- _layouts
-    |   |-- default.html
-    |   |-- post.html
-    |-- _posts
-    |   |-- 2011-10-25-open-source-is-good.markdown
-    |   |-- 2011-04-26-hello-world.markdown
-    |-- _site
-    |-- index.html
-    |-- assets
-        |-- css
-            |-- style.css
-        |-- javascripts
-
 Tomado de la página del desarrollador.
 
 
