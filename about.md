@@ -12,7 +12,7 @@ Soy Cesar Redondo Arrieta, me encantan los videojuegos, el desarrollo y la inves
 
 ##Actualmente interesado en:
 - Java
-- Angulr
+- Angular
 - Spring
 - Nodejs
 - Expressjs
@@ -24,11 +24,14 @@ Soy Cesar Redondo Arrieta, me encantan los videojuegos, el desarrollo y la inves
 - Mongoose
 - Mobile First Pages
 
-##Sobre su trabajo
+##Sobre mi trabajo
 
 Actualmente estoy trabajando para la empresa Snap Technology LTDA ubicada en Alajuela, Costa Rica.
+
+
 
 #Mis redes Sociales
 - [@credondocr](http://twitter.com/credondocr)
 - [Github](http://github.com/credondocr)
 - [Página Personal](http://www.redondocr.com)
+- [Spotify](https://play.spotify.com/user/1210020668) SI, siempre es importante conocer los gustos musicales.
