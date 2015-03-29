@@ -10,10 +10,8 @@ header: Hey, im Cesar
 
 <span>
     <!-- Mugshot. -->
-<img src="{{ 'credondocr@gmail.com' | to_gravatar }}" alt="A photo of {{ author.name }}" />
+<img src="http://www.gravatar.com/avatar/3139c6b1db19ee242ac9f3e09d859a3c.png" alt="Cesar Redondo Arrieta" />
 
-<!-- Personal Info. -->
-Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
 </span>
 
 
