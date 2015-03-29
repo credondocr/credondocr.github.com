@@ -13,7 +13,7 @@ tagline: Sandbox de cosas random que hago :P
                 <div class="entry-content">
                      <a href="{{post.url}}"><h1>{{post.title}}</h1></a>
                     {{ post.content | split:"<!-- more -->" | first }}
-                    [Read more...]({{post.url}})
+                    <a href="{{post.url}}">Read more...</a>
                 </div><!-- entry-content -->
             </div><!-- bd -->
         </div><!-- content -->
