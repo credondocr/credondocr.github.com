@@ -46,5 +46,32 @@ Bueno demos inicio al tutorial (Este tutorial esta enfocado en usuarios Linux ya
 
 Primero vamos a instalar el generador para angular-fullstack
 	
-	$ npm install -g generator-angular-fullstack
+	$ npm install -g generator-angular-
+
+Luego crearemos la carpeta donde estará nuestro proyecto
+	$ mkdir angular-fullstack-tutorial && cd $_
+
+Ya en esa carpeta ejecutaremos el Wizard para generar el proyecto:
+	$ yo angular-fullstack
+
+Con este comando Yeoman te va a preguntar que deseas y que no deseas en tu proyecto, en mi caso seleccione:
+
+##Client
+- javaScript
+- HTML
+- Less
+-UIRouter
+-Inclui Bootstrap
+-Inclui UI Bootstrap
+
+##Server
+- Mongo with Mongoose
+- Boilerplate Authentication
+- OAuth Strategies: Facebook
+-Inclui Socket.io
+
+<p>Luego de seleccionar tu proyecto durará unos cuantos minutos configurando y descargando las dependencias del proyecto.</p>
+
+
+
 
