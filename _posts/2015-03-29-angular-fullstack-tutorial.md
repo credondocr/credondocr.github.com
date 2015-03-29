@@ -82,21 +82,40 @@ Nota: Si ejecutamos este comando sin permiso de administrador va a dar un loop e
 
 ##Estructura del proyecto
 
-├── client
-│   ├── app                 - All of our app specific components go in here
-│   ├── assets              - Custom assets: fonts, images, etc…
-│   ├── components          - Our reusable components, non-specific to to our app
-│
-├── e2e                     - Our protractor end to end tests
-│
-└── server
-    ├── api                 - Our apps server api
-    ├── auth                - For handling authentication with different auth strategies
-    ├── components          - Our reusable or app-wide components
-    ├── config              - Where we do the bulk of our apps configuration
-    │   └── local.env.js    - Keep our environment variables out of source control
-    │   └── environment     - Configuration specific to the node environment
-    └── views               - Server rendered views
+	├── client
+	│   ├── app                 - All of our app specific components go in here
+	│   ├── assets              - Custom assets: fonts, images, etc…
+	│   ├── components          - Our reusable components, non-specific to to our app
+	│
+	├── e2e                     - Our protractor end to end tests
+	│
+	└── server
+	    ├── api                 - Our apps server api
+	    ├── auth                - For handling authentication with different auth strategies
+	    ├── components          - Our reusable or app-wide components
+	    ├── config              - Where we do the bulk of our apps configuration
+	    │   └── local.env.js    - Keep our environment variables out of source control
+	    │   └── environment     - Configuration specific to the node environment
+	    └── views               - Server rendered views
+
+	 .
+    |-- _client
+    |   |-- app
+    	|-- assets
+    	|--components 
+    |-- _includes
+    |-- _layouts
+    |   |-- default.html
+    |   |-- post.html
+    |-- _posts
+    |   |-- 2011-10-25-open-source-is-good.markdown
+    |   |-- 2011-04-26-hello-world.markdown
+    |-- _site
+    |-- index.html
+    |-- assets
+        |-- css
+            |-- style.css
+        |-- javascripts
 
 Tomado de la página del desarrollador.
 
