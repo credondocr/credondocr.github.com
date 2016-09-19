@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/credondocr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://redondocr.com
+  * I am credondocr (https://keybase.io/credondocr) on keybase.
+  * I have a public key ASAhf3_O2KcTOhlVnVZNGxmMX3mXJOKQQnvxN2YU3jpQngo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120217f7fced8a7133a19559d564d1b198c5f799724e290427bf1376614de3a509e0a",
+            "host": "keybase.io",
+            "kid": "0120217f7fced8a7133a19559d564d1b198c5f799724e290427bf1376614de3a509e0a",
+            "uid": "0f4189ad052fb053b57d1e1504899219",
+            "username": "credondocr"
+        },
+        "service": {
+            "hostname": "redondocr.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1474326399,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474326233,
+        "hash": "c2c86e1db4ba63d6a6a627002c546659a8483937760625efd656ad5ade5bd04570ec9991abadcce7b8a3a3fd57c0818c29cef2e1c2f3a5ccdd705a9fd10c4a6a",
+        "seqno": 643940
+    },
+    "prev": "bacf541d842f98ad2df686590b5fa279e79deed837dd5214ee38cc10ad5be19e",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIX9/ztinEzoZVZ1WTRsZjF95lyTikEJ78TdmFN46UJ4Kp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjE3ZjdmY2VkOGE3MTMzYTE5NTU5ZDU2NGQxYjE5OGM1Zjc5OTcyNGUyOTA0MjdiZjEzNzY2MTRkZTNhNTA5ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjE3ZjdmY2VkOGE3MTMzYTE5NTU5ZDU2NGQxYjE5OGM1Zjc5OTcyNGUyOTA0MjdiZjEzNzY2MTRkZTNhNTA5ZTBhIiwidWlkIjoiMGY0MTg5YWQwNTJmYjA1M2I1N2QxZTE1MDQ4OTkyMTkiLCJ1c2VybmFtZSI6ImNyZWRvbmRvY3IifSwic2VydmljZSI6eyJob3N0bmFtZSI6InJlZG9uZG9jci5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc0MzI2Mzk5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzQzMjYyMzMsImhhc2giOiJjMmM4NmUxZGI0YmE2M2Q2YTZhNjI3MDAyYzU0NjY1OWE4NDgzOTM3NzYwNjI1ZWZkNjU2YWQ1YWRlNWJkMDQ1NzBlYzk5OTFhYmFkY2NlN2I4YTNhM2ZkNTdjMDgxOGMyOWNlZjJlMWMyZjNhNWNjZGQ3MDVhOWZkMTBjNGE2YSIsInNlcW5vIjo2NDM5NDB9LCJwcmV2IjoiYmFjZjU0MWQ4NDJmOThhZDJkZjY4NjU5MGI1ZmEyNzllNzlkZWVkODM3ZGQ1MjE0ZWUzOGNjMTBhZDViZTE5ZSIsInNlcW5vIjoxOCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDKAgLiQXDbl7rNmZWWWlrqYSDtW/wX1ZsxkB28Ep1TuwhUo9CEFwRe9n4x5uKYaQH1ZI7z45zFrRXOddddY7wGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgAks2dDsCL0OmKpmQr4TbxOXOXXvzb61dPamkDfDteAijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/credondocr
+
+==================================================================
+
